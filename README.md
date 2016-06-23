@@ -22,6 +22,10 @@
 
 <h3>Example Layout</h3>
 
+```<android.support.design.widget.CoordinatorLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
         android:layout_height="168dp">
